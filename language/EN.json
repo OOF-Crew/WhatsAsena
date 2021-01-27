@@ -52,7 +52,7 @@
             "LAST_SEEN": "Ultimo accesso:",
             "IM_NOT_AFK": "```Non sono più AFK!```",
             "AFK_TEXT": "```Ciao, sono il bot personale di Marvyn. Sono qui per avvisarti che il mio padrone al momento è AFK e non può risponderti.```",
-            "AFK_TEXT_NOMD": "Sono il bot personale di Marvyn.,
+            "AFK_TEXT_NOMD": "Sono il bot personale di Marvyn.",
             "HOUR": "ora",
             "MINUTE": "minuto",
             "SECOND": "secondo"
